@@ -7,4 +7,5 @@
 <p>Secondly, this article was interesting because, as its title suggested, it provided sound and realistic advice (or at least convincing) forecasts about what software engineers of the future can expect. Spoiler: The party will last until 2060. </p>>
 
 
-
+<p> Thanks for sharing! </p>
+-- Mahataz
